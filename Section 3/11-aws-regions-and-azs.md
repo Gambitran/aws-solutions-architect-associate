@@ -14,5 +14,3 @@
 * All separated from each other, so that they're isolated from disasters
 * Still connected with high bandwidth, ultra-low latency networking
 
-
-
