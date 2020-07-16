@@ -1,4 +1,4 @@
-# AWS Fundamentals: IAM & EC2
+## AWS Fundamentals: IAM & EC2
 
 - EC2 Instances Launch Types
 
@@ -8,7 +8,7 @@
 
 
 
-# High Availability and Scalability: ELB & ASG
+## High Availability and Scalability: ELB & ASG
 
 - Elastic Load Balancing (ELB) Overview
 
@@ -34,7 +34,7 @@
 
 
 
-# EC2 Storage – EBS & EFS
+## EC2 Storage – EBS & EFS
 
 - EBS Volume Types Deep Dive
 
@@ -42,7 +42,7 @@
 
 
 
-# RDS + Aurora + ElastiCache
+## RDS + Aurora + ElastiCache
 
 - AWS RDS Overview
 
@@ -64,7 +64,7 @@
 
 
 
-# Amazon S3 Advanced
+## Amazon S3 Advanced
 
 - S3 Storage Tiers + Glacier
 
@@ -78,7 +78,7 @@
 
 
 
-# CloudFront & AWS Global Accelerator
+## CloudFront & AWS Global Accelerator
 
 - CloudFront Overview
 
@@ -92,7 +92,7 @@
 
 
 
-# AWS Storage Extras
+## AWS Storage Extras
 
 - Amazon FSx – Overview: SAA-C02
 
@@ -102,7 +102,7 @@
 
 
 
-# Decoupling applications: SQS, SNS, Kinesis, Active MQ
+## Decoupling applications: SQS, SNS, Kinesis, Active MQ
 
 - SQS + Auto Scaling Group
 
@@ -112,7 +112,7 @@
 
 
 
-# Serverless Overviews from a Solution Architect Perspective
+## Serverless Overviews from a Solution Architect Perspective
 
 - Lambda Overview
 
@@ -124,13 +124,13 @@
 
 
 
-# Databases in AWS
+## Databases in AWS
 
 - Redshift Overview
 
 
 
-# AWS Monitoring & Audit: CloudWatch & CloudTrail
+## AWS Monitoring & Audit: CloudWatch & CloudTrail
 
 - AWS Config – Overview: SAA-C02
 
@@ -140,7 +140,7 @@
 
 
 
-# Identity and Access Management (IAM) – Advanced
+## Identity and Access Management (IAM) – Advanced
 
 - Security Token Service (STS) Overview
 
@@ -162,7 +162,7 @@
 
 
 
-# AWS Security & Encryption: KMS, SSM Parameter Store, CloudHSM, Shield, WAF
+## AWS Security & Encryption: KMS, SSM Parameter Store, CloudHSM, Shield, WAF
 
 - CloudHSM: SAA-C02
 
@@ -174,7 +174,7 @@
 
 
 
-# Networking – VPC
+## Networking – VPC
 
 - NAT Gateways
 
@@ -192,7 +192,7 @@
 
 
 
-# Disaster Recovery & Migrations
+## Disaster Recovery & Migrations
 
 - Database Migration Service (DMS): SAA-C02
 
@@ -206,7 +206,7 @@
 
 
 
-# More Solution Architectures
+## More Solution Architectures
 
 - Event Processing in AWS: SAA-C02
 
@@ -218,7 +218,7 @@
 
 
 
-# Other Services
+## Other Services
 
 - CloudFormation – Extras: SAA-C02
 

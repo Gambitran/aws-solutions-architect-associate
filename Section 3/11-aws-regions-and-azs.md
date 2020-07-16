@@ -1,11 +1,11 @@
-# AWS Regions
+## AWS Regions
 
 * Regions are all around the world
   * Naming convention: us-east-1, us-west-2, eu-west-3
 * Cluster of data centers
 * Most AWS services are region scoped
 
-# AWS Availability Zones
+## AWS Availability Zones
 
 * Each region has many availability zones
   * usually 3, min 2, max 6

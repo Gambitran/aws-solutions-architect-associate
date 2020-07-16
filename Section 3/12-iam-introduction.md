@@ -1,4 +1,4 @@
-# IAM Introduction
+## IAM Introduction
 
 * Identity and Access Management
 * Users, Groups, Roles
@@ -11,12 +11,12 @@
 * Has predefined "managed policies"
 * Best practice to give least privileged principles - minimum permissions
 
-# IAM Federation
+## IAM Federation
 
 * Big enterprises usually use own repository of users with IAM
 * Can log into AWS with their company credentials (like SAML)
 
-# IAM 101 Brain Dump
+## IAM 101 Brain Dump
 
 * One IAM user per physical person
 * One IAM role per application
