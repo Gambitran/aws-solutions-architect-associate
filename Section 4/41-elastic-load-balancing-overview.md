@@ -40,3 +40,17 @@
 * Internal or external ELBs
 
 ## Load Balancer Security Groups
+
+![lb](./images/load-balancer.png)
+
+## Good to know
+
+* LB can scale, but instantaenously
+* Troubleshooting
+  * 4xx - client errors
+  * 5xx - app errors
+  * 503 - at capacity or no registered target
+  * Check SG
+* Monitoring
+  * ELB access logs will log all access requests
+  * CloudWatch Metrics will give aggregate stats (ex: connections count)
